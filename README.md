@@ -1,5 +1,7 @@
 # Tasca M3 T01
 
+En aquesta tasca treballaràs amb la llibreria numpy i amb les dades de la llibreria sklearn.datasets.
+
 ### Exercici 1
 ***
 Donat el següent dataframe data = {'Col1': [50, 30, 10, 40, 20]}, ordena els valors en ordre ascendent i descendent.
