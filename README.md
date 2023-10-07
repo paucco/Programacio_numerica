@@ -1,6 +1,6 @@
 # Tasca M3 T01
 
-En aquesta tasca treballaràs amb la llibreria numpy i amb les dades de la llibreria sklearn.datasets.
+En aquesta tasca treballaràs amb la llibreria numpy.
 
 ### Exercici 1
 ***
